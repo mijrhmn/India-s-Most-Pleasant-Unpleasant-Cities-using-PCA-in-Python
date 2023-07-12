@@ -1,0 +1,2 @@
+# India-s-Most-Pleasant-Unpleasant-Cities-using-PCA-in-Python
+Objective: Which cities in India have the overall most pleasant climate? Findings: Kochi, Visakhapatnam, Tenkasi, Chennai, Coimbatore, Madurai, Thekkady, Belgaum, Mysore, Mumbai, and Bengaluru have the overall most pleasant climate, while Srinagar, Shimla, Nainital, Ludhiana, Chandigarh, Meerut, and Delhi have the overall most unpleasant climate.
